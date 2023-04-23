@@ -7,7 +7,7 @@ creating a registration form. Skills used html &amp; css only.
     <img src="https://badgen.net/github/forks/lewisushindi/Projest" alt="GitHub forks">
     <img src="https://badgen.net/github/open-issues/lewisushindi/Projest" alt="open-issues"/>
     <img src="https://badgen.net/github/closed-issues/lewisushindi/Projest" alt="closed-issues"/>
-    <img src="https://badgen.net/github/lewisushindi/Projest" alt="merged-prs"/>
+    <img src="https://badgen.net/github/prs/micromatch/micromatch" alt="merged-prs"/>
     <img src="https://badgen.net/github/commits/lewisushindi/Projest" alt="commits"/>
     <img src="https://badgen.net/github/contributors/lewisushindi/Projest" alt="contributors"/>
 </div>
